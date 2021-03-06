@@ -1,9 +1,9 @@
 
-// timeTable();
+timeTable();
 
-// iTimeTable(7);
+iTimeTable(7);
 
-// iTimeTable2(3, 9);
+iTimeTable2(3, 9);
 
 
 function timeTable() {
